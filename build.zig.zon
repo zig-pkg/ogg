@@ -1,0 +1,13 @@
+.{
+    .name = "libogg",
+    .version = "1.3.5",
+    .minimum_zig_version = "0.12.0",
+    .paths = .{
+        "COPYING",
+        "CHANGES",
+        "README.md",
+        "build.zig",
+        "include",
+        "src",
+    },
+}
